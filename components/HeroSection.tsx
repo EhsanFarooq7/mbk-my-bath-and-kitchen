@@ -22,7 +22,7 @@ export default function HeroSection() {
             {/* Content */}
             <div className="relative z-20 flex flex-col items-center justify-center text-white h-full text-center px-4">
                 <h1 className="text-3xl md:text-5xl font-light mb-4">REMODEL THE RIGHT WAY</h1>
-                <p className="text-lg md:text-2xl mb-6">San Diego&s bathroom & kitchen remodeling experts.</p>
+                <p className="text-lg md:text-2xl mb-6">San Diego&rsquo;s bathroom &amp; kitchen remodeling experts.</p>
 
                 <div className="flex flex-col md:flex-row gap-4">
                     <button className="bg-[#EB847D] text-white px-6 py-3 rounded-md font-medium">
